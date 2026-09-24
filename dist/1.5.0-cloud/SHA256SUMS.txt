@@ -1,0 +1,3 @@
+247b0cda30ff1b3e4ddccec1ffaec5db19bb39f052074b66f2353ddf492babf5 *dwmapi.dll
+0dbf4c55f1d0e0e874eb23adaf6c53a5aba9bdacb21b581ddbe6ea560fbf0cfd *OpenSteamTool.dll
+0619d4221b49dbfe304f2051ce3381e7e508ebd72eb7828e91876e02f53d1309 *xinput1_4.dll
